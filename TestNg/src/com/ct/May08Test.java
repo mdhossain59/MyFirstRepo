@@ -40,5 +40,10 @@ public class May08Test {
   public void afterMethod() {
 	  System.out.println("Close Browser xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
   }
+  
+  @Test
+  public void validateGithub() {
+	  System.out.println("This will validate Github");
+  }
 
 }
